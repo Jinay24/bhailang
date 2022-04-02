@@ -1,1 +1,13 @@
+hi bhai
+  bhai ye hai a = 1;
+  jab tak bhai(a<10)
+ { bol bhai "a chota hai";
+   a+=1;
+    agar bhai(a==5)
+    {bol bhai "a aadha hai";
+     bas kar bhai;
+    }
+  }
+ bol bhai"done";
+bye bhai
 
